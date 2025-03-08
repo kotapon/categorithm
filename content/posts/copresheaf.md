@@ -6,4 +6,4 @@ tags = ['category']
 title = 'Copresheaf'
 +++
 
-A functor $P: \mathscr{C} \to \text{Set}$
+A functor $P: \mathscr{C} \to \text{Set}$.
